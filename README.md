@@ -46,3 +46,7 @@
 - Bogus
     - https://github.com/bchavez/Bogus
         - https://youtu.be/T9pwE1GAr_U
+
+- Serilog
+    - https://github.com/serilog/serilog
+        - https://youtu.be/bnVfrd3lRv8  
