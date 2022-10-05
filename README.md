@@ -41,4 +41,8 @@
 
 - BenchmarkDotNet
     - https://github.com/dotnet/BenchmarkDotNet
-        - https://youtu.be/EWmufbVF2A4  
+        - https://youtu.be/EWmufbVF2A4
+
+- Bogus
+    - https://github.com/bchavez/Bogus
+        - https://youtu.be/T9pwE1GAr_U
