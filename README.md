@@ -39,14 +39,14 @@
 
 # Divers
 
-- BenchmarkDotNet
-    - https://github.com/dotnet/BenchmarkDotNet
-        - https://youtu.be/EWmufbVF2A4
+## BenchmarkDotNet
+- https://github.com/dotnet/BenchmarkDotNet
+    - https://youtu.be/EWmufbVF2A4
 
-- Bogus
-    - https://github.com/bchavez/Bogus
-        - https://youtu.be/T9pwE1GAr_U
+## Bogus
+- https://github.com/bchavez/Bogus
+    - https://youtu.be/T9pwE1GAr_U
 
-- Serilog
-    - https://github.com/serilog/serilog
-        - https://youtu.be/bnVfrd3lRv8  
+## Serilog
+- https://github.com/serilog/serilog
+    - https://youtu.be/bnVfrd3lRv8  
