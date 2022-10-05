@@ -28,3 +28,9 @@
 - Fluent Assertions
     - https://github.com/fluentassertions/fluentassertions
         - https://youtu.be/b2zxl5zNjlA 
+
+- Testcontainers
+    - https://github.com/testcontainers/testcontainers-dotnet
+        - https://youtu.be/8IRNC7qZBmk
+
+- Wiremock
