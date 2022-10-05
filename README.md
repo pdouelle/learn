@@ -1,8 +1,8 @@
 # Architecture
 
-- Clean architecture
-    - https://github.com/jasontaylordev/CleanArchitecture
-        - https://youtu.be/YiVqwoFMieg
+## Clean architecture
+- https://github.com/jasontaylordev/CleanArchitecture
+    - https://youtu.be/YiVqwoFMieg
 
 # Code
 
