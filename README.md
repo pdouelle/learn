@@ -25,6 +25,6 @@
     - https://github.com/xunit/xunit
         - https://youtu.be/2Wp8en1I9oQ
 
-- Fluent Assertion
+- Fluent Assertions
     - https://github.com/fluentassertions/fluentassertions
         - https://youtu.be/b2zxl5zNjlA 
