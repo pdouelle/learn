@@ -53,3 +53,7 @@
 
 ## BDD
 - https://youtu.be/EEeVU0z26u0
+
+## K6
+- https://github.com/grafana/k6
+    - https://youtu.be/r-Jte8Y8zag 
