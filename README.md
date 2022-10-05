@@ -19,3 +19,12 @@
     - https://github.com/MapsterMapper/Mapster
         - https://youtu.be/UIslFVEHkzA
 
+# Test
+
+- xUnit
+    - https://github.com/xunit/xunit
+        - https://youtu.be/2Wp8en1I9oQ
+
+- Fluent Assertion
+    - https://github.com/fluentassertions/fluentassertions
+        - https://youtu.be/b2zxl5zNjlA 
