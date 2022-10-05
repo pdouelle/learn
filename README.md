@@ -7,35 +7,35 @@
 # Code
 
 ## MediatR
--https://github.com/jbogard/MediatR
+- https://github.com/jbogard/MediatR
     - https://youtu.be/YzOBrVlthMk
     - https://youtu.be/2JzQuIvxIqk
 
 ## FluentValidation
--https://github.com/FluentValidation/FluentValidation
-    -https://youtu.be/Ut6mRRFT2vM
+- https://github.com/FluentValidation/FluentValidation
+    - https://youtu.be/Ut6mRRFT2vM
 
-- Mapster
-    - https://github.com/MapsterMapper/Mapster
-        - https://youtu.be/UIslFVEHkzA
+## Mapster
+- https://github.com/MapsterMapper/Mapster
+    - https://youtu.be/UIslFVEHkzA
 
 # Test
 
-- xUnit
-    - https://github.com/xunit/xunit
-        - https://youtu.be/2Wp8en1I9oQ
+## xUnit
+- https://github.com/xunit/xunit
+    - https://youtu.be/2Wp8en1I9oQ
 
-- Fluent Assertions
-    - https://github.com/fluentassertions/fluentassertions
-        - https://youtu.be/b2zxl5zNjlA 
+## Fluent Assertions
+- https://github.com/fluentassertions/fluentassertions
+    - https://youtu.be/b2zxl5zNjlA 
 
-- Testcontainers
-    - https://github.com/testcontainers/testcontainers-dotnet
-        - https://youtu.be/8IRNC7qZBmk
+## Testcontainers
+- https://github.com/testcontainers/testcontainers-dotnet
+    - https://youtu.be/8IRNC7qZBmk
 
-- WireMock
-    - https://github.com/wiremock/wiremock
-        - https://youtu.be/YU3ohofu6UU 
+## WireMock
+- https://github.com/wiremock/wiremock
+    - https://youtu.be/YU3ohofu6UU 
 
 # Divers
 
